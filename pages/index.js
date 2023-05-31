@@ -59,7 +59,7 @@ export default function home() {
       <main>
         {/* Header Design */}
         <header class="header">
-          <img src="./images/logo.png" alt="Logo" class="logo" />
+          <img src="./images/Logo.png" alt="Logo" class="logo" />
           <div class="bx bx-menu" id="menu-icon"></div>
 
           <nav class="navbar">
