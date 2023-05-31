@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "Company": "ISUZU",
+        "Title": "Junior Web Developer",
+        "Start": "05/01/2021",
+        "End": "15/06/2021",
+        "Location": "Punjab",
+        "Description": "Worked on ASP.net websites"
+    },
+    {
+        "id": 2,
+        "Company": "Muscat Pharmacy",
+        "Title": "Junior Wb Developer",
+        "Start": "01/05/2018",
+        "End": "31/06/2018",
+        "Location": "Muscat",
+        "Description": "Did some work on asp and made project for Mess Management."
+    }
+]

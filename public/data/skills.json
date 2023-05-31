@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "Name": "MERN",
+        "Image": "https://images.prismic.io/loco-blogs/79328284-f97b-489f-924c-eb3b17e34b56_image2.png?auto=compress%2Cformat&rect=0%2C0%2C1999%2C1124&w=3840&fit=max"
+    },
+    {
+        "id": 2,
+        "Name": "React JS",
+        "Image": "https://www.datocms-assets.com/45470/1631110818-logo-react-js.png?fm=webp"
+    },
+    {
+        "id": 3,
+        "Name": "Node JS",
+        "Image": "https://philna.sh/_astro/node.1305aa9e_2hVslV.webp"
+    },
+    {
+        "id": 4,
+        "Name": "ASP.NET",
+        "Image": "https://www.nuget.org/profiles/aspnet/avatar?imageSize=512"
+    },
+    {
+        "id": 5,
+        "Name": "C#",
+        "Image": "https://www.codeguru.com/wp-content/uploads/2021/08/C-Sharp-Tutorials-300x169.png.webp"
+    },
+    {
+        "id": 6,
+        "Name": "C Language",
+        "Image": "https://online.crbtech.in/wp-content/uploads/2019/03/C-programming-1024x530.png"
+    },
+    {
+        "id": 7,
+        "Name": "Java",
+        "Image": "https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"
+    }
+]

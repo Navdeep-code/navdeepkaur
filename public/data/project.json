@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "Name": "Tea Maker",
+        "Content": "Tea maker is a web application developed by me which suggest tea recipies to user based on ingredients they have chosen.Langauges used: Javascrit, Html/CSS",
+        "Date": "20/11/2022"
+    },
+    {
+        "id": 2,
+        "Name": "My Boutique",
+        "Content": "My Boutique is a website a selling boutique products online.Langauges used: Node.js, MONGODB",
+        "Date": "15/2/2023"
+    },
+    {
+        "id": 3,
+        "Name": "Device Rental System",
+        "Content": "Cms system for Humber college to rent devices to students with admin and user portion. Languages used: PHP, HTML/CSS",
+        "Date": "20/03/2023"
+    },
+    {
+        "id": 4,
+        "Name": "In Focus",
+        "Content": "Used Upsplash and New york Times API to fetch images and some latest news regarding those images. Languages used: Node js, HTML/CSS",
+        "Date": "19/02/2023"
+    },
+    {
+        "id": 5,
+        "Name": "Tiffin Management System",
+        "Content": "Tiffin business management system made using ASP.NET Entity Framework. Languages used: ASP.NET, HTML/CSS",
+        "Date": "25/02/2023"
+    },
+    {
+        "id": 6,
+        "Name": "Drop Jokes",
+        "Content": "Website to show visual jokes with enhanced animations made using CSS only. Languages used: HTML/CSS",
+        "Date": "29/11/2022"
+    }
+]
