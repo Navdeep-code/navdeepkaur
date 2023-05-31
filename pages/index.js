@@ -51,7 +51,6 @@ export default function home() {
       <Head>
         <title>My Portfolio</title>
         <script src="js/script.js"></script>
-        <link rel="stylesheet" href="style.css" />
         {/* Box icons */}
         <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet' />
       </Head>
