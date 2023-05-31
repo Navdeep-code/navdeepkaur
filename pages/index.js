@@ -62,7 +62,7 @@ export default function home() {
           <div class="bx bx-menu" id="menu-icon"></div>
 
           <nav class="navbar">
-            <a href="#" class="active">Home</a>
+            <a href="#">Home</a>
             <a href="#About">About</a>
             <a href="#Education">Education</a>
             <a href="#Skills">Skills</a>
